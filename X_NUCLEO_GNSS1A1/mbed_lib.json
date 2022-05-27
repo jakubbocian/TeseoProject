@@ -1,0 +1,9 @@
+{
+    "name": "teseo",
+    "config": {
+        "trace-enabled": {
+            "value": true,
+            "help": "Teseo trace utility"
+        }
+    }
+}

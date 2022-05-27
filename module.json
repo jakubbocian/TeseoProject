@@ -1,0 +1,17 @@
+{
+  "name": "TeseoLocation",
+  "version": "1.0.0",
+  "description": " Teseo Location demo for GPSProvider using ST GNSS driver.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "GPS_Provider": "^1.0.0"
+    "X_NUCLEO_GNSS1A1": "^1.0.0"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
